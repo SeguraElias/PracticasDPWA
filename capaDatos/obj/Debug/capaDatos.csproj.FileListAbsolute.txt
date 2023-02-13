@@ -1,0 +1,6 @@
+C:\Users\marlo\source\repos\Practica2\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\marlo\source\repos\Practica2\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\marlo\source\repos\Practica2\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\Practica2\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Practica2\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\marlo\source\repos\Practica2\capaDatos\obj\Debug\capaDatos.pdb
