@@ -1,0 +1,11 @@
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\capaEntidad.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaLogicaNegocios\bin\Debug\capaEntidad.pdb

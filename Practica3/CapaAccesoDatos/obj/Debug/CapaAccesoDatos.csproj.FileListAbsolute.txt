@@ -1,0 +1,9 @@
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\bin\Debug\capaEntidad.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\bin\Debug\capaEntidad.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\CDS2\Desktop\PracticaArquitecturaCapas\PracticaArquitecturaCapas\capaEntidad\obj\Debug\capaEntidad.pdb
